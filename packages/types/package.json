@@ -1,10 +1,10 @@
 {
   "name": "@dappforce/types",
   "version": "0.2.0-beta",
-  "description": "ORML JS types",
+  "description": "Dappforce JS types",
   "main": "index.js",
-  "author": "Laminar Developers <hello@laminar.one>",
-  "license": "Apache-2.0",
+  "author": "Oleh Mell",
+  "license": "MIT",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
